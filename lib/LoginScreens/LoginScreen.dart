@@ -117,7 +117,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       padding: const EdgeInsets.symmetric(horizontal: 20),
                       child: TextFormFieldWidget(
                         controller: emailController,
-                        labelText: "Email",
+                        labelText: "Email ",
                         labelColor: Colors.grey,
                         prefuxIcon: Icons.email,
                         textColor: Colors.white,
