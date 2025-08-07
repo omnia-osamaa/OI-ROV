@@ -1,4 +1,4 @@
-# OIRPV
+# OIROV
 
 Remotely Operated Vehicle. It's an underwater robot, controlled from a surface vessel, used for exploration and tasks in the ocean. 
 
